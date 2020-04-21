@@ -1,6 +1,7 @@
 [package]
 name = "pertempco"
 version = "0.0.1"
+edition = "2018"
 
 [dependencies]
 embedded-hal = "0.2.3"
